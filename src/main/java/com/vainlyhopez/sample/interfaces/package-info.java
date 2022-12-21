@@ -1,7 +1,9 @@
 /**
  * <p>user interface layer</p>
  *
- * 相当于springmvc中web层（controller/websocket/restapi）：处理用户显示和用户请求
+ * 相当于springmvc中web层（controller/websocket/restapi）：处理用户显示和用户请求<br/>
+ * 此层也可与infrastructure层合并，以此构成六边形架构
+ *
  * <p>
  *  - 可充当边缘服务<br/>
  *  - 对用户的输入进行验证<br/>
