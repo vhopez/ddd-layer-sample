@@ -10,4 +10,4 @@
  *  - 直接调用应用层方法或调用facade方法<br/>
  *  </p>
  */
-package com.vainlyhopez.interfaces;
+package com.vainlyhopez.sample.interfaces;

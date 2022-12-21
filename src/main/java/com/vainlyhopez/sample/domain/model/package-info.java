@@ -1,0 +1,1 @@
+package com.vainlyhopez.sample.domain.model;
